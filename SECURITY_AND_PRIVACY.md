@@ -9,7 +9,8 @@ permalink: /privacy
 **Effective Date:** November 23, 2026  
 **Vendor / Legal Entity:** The Peripety Company, LLC (State of Maine, USA)  
 **Product:** Limit Guard for Jira Cloud  
-**Support & Security Contact:** [support@theperipetycompany.com](mailto:support@theperipetycompany.com)
+**Support Portal:** [The Peripety Company Support Portal](https://theperipetycompany.atlassian.net/servicedesk/customer/portal/1)  
+**Support & Security Email:** [support@theperipetycompany.com](mailto:support@theperipetycompany.com)
 
 ---
 
@@ -62,4 +63,4 @@ Limit Guard v1 is **strictly read-only**. It requests **zero** `write:*`, `delet
 
 ## 5. Data Residency & Contact
 - **Data Residency:** Automatically inherits Atlassian Cloud's tenant-pinned data residency region through Forge SQL and Forge Functions.
-- **Privacy, Security & InfoSec Inquiries:** Email [support@theperipetycompany.com](mailto:support@theperipetycompany.com). We respond to all inquiries within 1 business day.
+- **Privacy, Security & InfoSec Inquiries:** Submit a ticket via [The Peripety Company Support Portal](https://theperipetycompany.atlassian.net/servicedesk/customer/portal/1) or email [support@theperipetycompany.com](mailto:support@theperipetycompany.com). We respond to all inquiries within 1 business day.

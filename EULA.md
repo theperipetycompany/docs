@@ -9,6 +9,7 @@ permalink: /eula
 **Effective Date:** November 23, 2026  
 **Vendor:** The Peripety Company, LLC (a Maine limited liability company)  
 **Product:** Limit Guard for Jira Cloud ("the App")  
+**Support Portal:** [The Peripety Company Support Portal](https://theperipetycompany.atlassian.net/servicedesk/customer/portal/1)  
 **Contact:** [support@theperipetycompany.com](mailto:support@theperipetycompany.com)
 
 By installing, accessing, or using **Limit Guard for Jira Cloud**, you ("Customer") agree to be bound by this End User License Agreement ("Agreement") with **The Peripety Company, LLC** ("Vendor").
@@ -34,7 +35,7 @@ Customer shall not: (a) reverse engineer, decompile, or disassemble the App exce
 Data handling, tenant isolation, 90-day Forge SQL retention, and zero-egress security controls are governed by our [Security, Privacy & Data Residency Policy](https://docs.theperipetycompany.com/privacy), which is incorporated by reference into this Agreement.
 
 ## 6. Support
-Standard support is provided via email at [support@theperipetycompany.com](mailto:support@theperipetycompany.com) with a target initial response time of 1 business day.
+Standard support is provided via [The Peripety Company Support Portal](https://theperipetycompany.atlassian.net/servicedesk/customer/portal/1) or email at [support@theperipetycompany.com](mailto:support@theperipetycompany.com) with a target initial response time of 1 business day.
 
 ## 7. Disclaimer of Warranties
 THE APP IS PROVIDED **"AS IS"** AND **"AS AVAILABLE"** WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. VENDOR DOES NOT WARRANT THAT JIRA CLOUD API LIMITS, ENDPOINTS, OR PLATFORM AVAILABILITY WILL BE UNINTERRUPTED OR ERROR-FREE.
