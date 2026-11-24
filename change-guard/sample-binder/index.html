@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="/favicon.ico" />
   <title>Change Guard for Jira Cloud — Sample SOC 2 / ISO 27001 Evidence Binder | The Peripety Company, LLC</title>
   <meta name="description" content="Download an anonymized, RFC-8785 SHA-256 verifiable 6-artifact SOC 2 / ISO 27001 / DORA Evidence Binder exported by Change Guard for Jira Cloud (100% Runs on Atlassian)." />
   <style>
@@ -655,25 +656,25 @@
             </thead>
             <tbody>
               <tr>
-                <td><code>change-guard-population-q4soc220-2026-12-31.csv</code></td>
+                <td><code>change-guard-population-q4soc220-2026-11-24.csv</code></td>
                 <td><strong>Population Completeness:</strong> Complete locked JQL ticket list proving zero cherry-picking across Q4 2026.</td>
                 <td class="num">25 tickets</td>
                 <td class="num">1.8 KB</td>
               </tr>
               <tr>
-                <td><code>change-guard-controls-q4soc220-2026-12-31.csv</code></td>
+                <td><code>change-guard-controls-q4soc220-2026-11-24.csv</code></td>
                 <td><strong>Control Evaluation Matrix &amp; Seeded Sample:</strong> Per-ticket PASS/FAIL outcomes across all 6 controls, actors, timestamps, finding codes, and <code>in_sample</code> flags for the 10-ticket random sample.</td>
                 <td class="num">25 rows (10 sampled)</td>
                 <td class="num">5.0 KB</td>
               </tr>
               <tr>
-                <td><code>change-guard-changelogs-q4soc220-2026-12-31.csv</code></td>
+                <td><code>change-guard-changelogs-q4soc220-2026-11-24.csv</code></td>
                 <td><strong>Full Per-Ticket Changelogs:</strong> Complete chronological Jira status transitions, JSM CAB approval timestamps, and post-closure edit logs (omitted by Jira's native CSV export).</td>
                 <td class="num">126 events</td>
                 <td class="num">13.9 KB</td>
               </tr>
               <tr>
-                <td><code>change-guard-report-q4soc220-2026-12-31.html</code></td>
+                <td><code>change-guard-report-q4soc220-2026-11-24.html</code></td>
                 <td><strong>Printable Executive Summary:</strong> Self-contained HTML/PDF-ready audit report summarizing pass rates, locked hashes, control breakdowns, and exception registers. (<a href="sample-report.html" target="_blank" rel="noopener noreferrer">Preview live</a>)</td>
                 <td class="num">25 tickets</td>
                 <td class="num">8.2 KB</td>
@@ -685,7 +686,7 @@
                 <td class="num">1.9 KB</td>
               </tr>
               <tr>
-                <td><code>change-guard-binder-q4soc220-2026-12-31.json</code></td>
+                <td><code>change-guard-binder-q4soc220-2026-11-24.json</code></td>
                 <td><strong>Complete Structured Audit Binder (JSON):</strong> Machine-readable full archive combining run metadata, locked population, control evaluations, findings, and full changelogs for GRC ingestion.</td>
                 <td class="num">25 tickets</td>
                 <td class="num">114.9 KB</td>
@@ -745,7 +746,7 @@
                 <div class="mock-ui">
                   <div class="mock-dim">JQL: project = "CHG" AND status CHANGED TO ("Done","Deployed")...</div>
                   <div>Locked Tickets: <span class="mock-ok">25 / 25 (Complete)</span></div>
-                  <div>populationSha256: <span class="mock-ok">63dc4065…90cdabd</span></div>
+                  <div>populationSha256: <span class="mock-ok">3e33aec3…251420c9</span></div>
                 </div>
               </div>
 
@@ -772,8 +773,8 @@
                 <div class="mock-ui">
                   <div class="mock-ok">&#10003; Cryptographic Integrity Verified</div>
                   <div class="mock-dim">Zero Tampering Detected (RFC-8785)</div>
-                  <div>Chain: <span class="mock-ok">bea3b7eb…6571bdf</span></div>
-                  <div>Bundle: <span class="mock-ok">f5d37432…502e909</span></div>
+                  <div>Chain: <span class="mock-ok">49bfe5f2…c43ababe</span></div>
+                  <div>Bundle: <span class="mock-ok">fc41cf12…34c975d5</span></div>
                 </div>
               </div>
             </div>
@@ -803,15 +804,15 @@
           </div>
           <div class="digest-row">
             <span class="digest-label">Locked Population SHA-256</span>
-            <code>63dc4065ce75db7fb3760b4ace5601e193b8e97785552df6198b1df7290cdabd</code>
+            <code>3e33aec388d2b5f9cd5fd86c13c369e6fcd9507f5b278a80bf730d6e251420c9</code>
           </div>
           <div class="digest-row">
             <span class="digest-label">Binder Chain SHA-256</span>
-            <code>bea3b7ebdbbe78901da2da853593d30f3bf6b6ed6d05d49c8b11867966571bdf</code>
+            <code>49bfe5f290892689520b66a3d29c5bd8a30554ea1db7e9d2fc2b9c2bc43ababe</code>
           </div>
           <div class="digest-row">
             <span class="digest-label">Export Bundle SHA-256</span>
-            <code>f5d374323193bd54438aa870933717adf8fb14f49bd28dd62b366e8e9502e909</code>
+            <code>fc41cf12f09f25af3cf9a39a94709d860a0bc5344b4d34c233bce8be34c975d5</code>
           </div>
         </div>
       </section>
